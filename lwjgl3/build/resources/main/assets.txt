@@ -1,0 +1,20 @@
+.gitkeep
+GFX/Mario GFX/big_mario.png
+GFX/Mario GFX/goomba.png
+GFX/Mario GFX/little_mario.png
+GFX/Mario GFX/mushroom.png
+GFX/Mario GFX/turtle.png
+Mario_and_Enemies.pack
+Mario_and_Enemies.png
+audio/music/mario_music.ogg
+audio/sounds/breakblock.wav
+audio/sounds/bump.wav
+audio/sounds/coin.wav
+audio/sounds/mariodie.wav
+audio/sounds/powerdown.wav
+audio/sounds/powerup.wav
+audio/sounds/powerup_spawn.wav
+audio/sounds/stomp.wav
+icon.png
+level1.tmx
+tileset_gutter.png
